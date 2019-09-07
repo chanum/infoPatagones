@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">infoPatagones</string>
+
+
+    <string name="menu_news">Diarios</string>
+    <string name="menu_radio">Radios</string>
+    <string name="menu_info">información</string>
+
+
+</resources>
